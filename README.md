@@ -14,3 +14,10 @@ Projeto feito durante o curso de responsividade da Alura na formação de Front-
 > 💻 Desktop (1728px)
 
 ![alurabooks-desktop](https://user-images.githubusercontent.com/99251703/235706708-20132cf7-124c-4192-adc0-29c85e1d4608.png)
+
+
+# 📂 Acesso ao projeto
+
+É apenas necessário acessar o link abaixo:
+
+📍 https://itsrenata2.github.io/AluraBooks/
