@@ -45,7 +45,7 @@
     .banner__pesquisa {
         width: 50%;
         border-radius: 20px;
-        padding: 2em;
+        padding: 1em;
     }
 
     .banner__pesquisa::placeholder {
@@ -58,11 +58,11 @@
 
     .banner__pesquisa {
         width: 30%;
-        border-radius: 20px;
+        border-radius: 50px;
     }
 
     .banner__pesquisa::placeholder {
-        background-position: 8.5em;
+        background-position: 8em;
     }
 
     .banner {
